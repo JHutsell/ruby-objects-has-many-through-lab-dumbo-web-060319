@@ -11,6 +11,8 @@ class Apointment
     @@all << self 
   end
   
+  def 
+  
   
   
 end
