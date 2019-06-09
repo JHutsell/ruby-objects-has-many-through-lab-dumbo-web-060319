@@ -1,5 +1,5 @@
 class Doctor 
-  attr_reader :name
+  attr_accesor :name
   
   @@all = []
   
